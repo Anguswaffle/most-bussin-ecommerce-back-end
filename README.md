@@ -33,7 +33,7 @@
 
   ## Usage
 
-  Using an api-testing tool, fill out the routes, and have fun interacting with the database!
+  Using an api-testing tool, or plain ol' browser, fill out the routes, and have fun interacting with the database!
 
 
   ## Contribution Guidelines
